@@ -1,0 +1,10 @@
+chromedriver-installer
+nose
+selenium
+wsgiref
+nose-testconfig
+nose-xunitmp
+Appium-Python-Client
+nose_ittr
+requests
+xunitparser

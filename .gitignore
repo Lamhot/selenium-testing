@@ -1,0 +1,4 @@
+env_modalku/
+*.pyc
+.idea/
+uitest.log
