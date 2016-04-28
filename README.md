@@ -1,8 +1,7 @@
 Functional Tests using selenium
 ==============
 # Introduction
-This repo contains the suite of functional tests verifying the complete functionality
-of our web product using Selenium and Python.
+This repo contains functional tests verifying the complete functionality(landing page,login,logout,and change password) using Selenium and Python.
 
 # Set Up
 - Install Python 2.7 and Pip
