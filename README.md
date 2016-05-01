@@ -23,8 +23,8 @@ Detail Step installation python:
 
 # Running Test
 Running specific test with specific configuration
-    1. Open console/command prompt and go to the directory
-    2. python D:\QA_engineer\funtional_test.py (depends on your path)
+- Open console/command prompt and go to the directory
+- python D:\QA_engineer\funtional_test.py (depends on your path)
 
 # Test Reporting
 success and fail tet will shown on command bash python
