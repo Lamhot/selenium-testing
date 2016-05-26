@@ -10,6 +10,11 @@ class PythonHomePage(unittest.TestCase):
         driver = self.driver
         driver.get("https://modalku.co.id")
         self.assertIn("Investasi Menguntungkan dan Pinjaman Modal Usaha Kecil", driver.title)
+    
+     def test_not_in_home_page(self):
+        driver = self.driver
+        driver.get("https://modalku.co.id")
+        self.assertIn("Test", driver.title)
 
     def tearDown(self):
         self.driver.close()
